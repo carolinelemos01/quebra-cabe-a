@@ -3,10 +3,12 @@
     padding: 0;
     background-color: black;
 }
+
+
 .quebra-cabeca{
     width: 900px;
     height: 500px; 
     display: flex;
     flex-wrap: wrap;
-    
+
 }
